@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elastic Grid Scroll
 
 A scroll effect where each column of a grid moves at a slightly different speed, creating a soft, elastic feel as you scroll.
@@ -23,3 +24,6 @@ Follow Codrops: [Bluesky](https://bsky.app/profile/codrops.bsky.social), [Facebo
 ## License
 
 [MIT](LICENSE)
+=======
+# ElasticGridScroll-main
+>>>>>>> 49ece8cd53d58ff30a340bd6cc716733625b9193
